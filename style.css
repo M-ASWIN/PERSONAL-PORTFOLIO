@@ -376,13 +376,13 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .js::before{
-    width: 20%;
+    width: 90%;
 }
 .skills-content .right .python::before{
-    width: 50%;
+    width: 90%;
 }
 .skills-content .right .mysql::before{
-    width: 30%;
+    width: 90%;
 }
 .projects .title::after{
     content: "WHAT I DID";
